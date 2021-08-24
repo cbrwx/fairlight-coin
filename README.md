@@ -8,3 +8,4 @@ dependencies "needed" on vm and how to install them;
 
 sudo apt-get install build-essential, cmake, libboost-all-dev, miniupnpc, libunbound-dev, graphviz, doxygen, libdb5.3++-dev, and add-apt-repository ppa:bitcoin/bitcoin
 
+x likes men
