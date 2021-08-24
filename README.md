@@ -1,4 +1,5 @@
 Fixed the make error that breaks the compile at 62% on Cryptonote, forked with additional properties.
+[cryptonote: https://github.com/cryptonotefoundation/cryptonote ]
 
 [Adding more soon]
 
