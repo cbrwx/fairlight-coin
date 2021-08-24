@@ -18,3 +18,4 @@ sudo add-apt-repository ppa:bitcoin/bitcoin
 
 and
 Press Enter
+.
