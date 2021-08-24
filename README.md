@@ -1,6 +1,6 @@
-Make fixed Cryptonote fork with additional properties.
+Fixed the make error that breaks the compile at 62% on Cryptonote, forked with additional properties.
 
-Adding more soon
+[Adding more soon]
 
 For usage in own project make sure to remove the genesis hash before first build.
 
