@@ -6,8 +6,8 @@ For usage in own project make sure to remove the genesis hash before first build
 
 dependencies needed on vm and how to install them;
 
-sudo apt-get install build-essential cmake 
-sudo libboost-all-dev 
+sudo apt-get install build-essential cmake;
+sudo libboost-all-dev;
 sudo apt-get install miniupnpc 
 
 sudo apt-get install libunbound-dev 
